@@ -1,3 +1,3 @@
-# Guided-project-Work-with-variable-data-in-CSharp
+# Contoso PetFriends
 
-Starter and Solution code for the **Guided project**: "Work with variable data in C# console applications" from the Microsoft Learn collection "Getting started with C#"
+A sample project to get started with learning C#. Displaying and searching for pet information.
