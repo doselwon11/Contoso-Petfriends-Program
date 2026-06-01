@@ -6,3 +6,9 @@ Guided-project-Work-with-variable-data-CSharp-main/** linguist-vendored=false
 Guided-project-Work-with-variable-data-CSharp-main/wwwroot/** linguist-detectable=false
 Guided-project-Work-with-variable-data-CSharp-main/bin/** linguist-detectable=false
 Guided-project-Work-with-variable-data-CSharp-main/obj/** linguist-detectable=false
+
+# force to calculate C#
+*.cs linguist-detectable=true
+*.cs linguist-vendored=false
+*.cs linguist-documentation=false
+
