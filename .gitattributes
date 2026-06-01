@@ -12,3 +12,6 @@ Guided-project-Work-with-variable-data-CSharp-main/obj/** linguist-detectable=fa
 *.cs linguist-vendored=false
 *.cs linguist-documentation=false
 
+# stop ignoring Starter
+Guided-project-Work-with-variable-data-CSharp-main/Starter/** linguist-vendored=false
+Guided-project-Work-with-variable-data-CSharp-main/Starter/** linguist-detectable=true
