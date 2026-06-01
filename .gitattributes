@@ -12,6 +12,12 @@ Guided-project-Work-with-variable-data-CSharp-main/obj/** linguist-detectable=fa
 *.cs linguist-vendored=false
 *.cs linguist-documentation=false
 
-# stop ignoring Starter
+# Force GitHub to scan the Starter folder
 Guided-project-Work-with-variable-data-CSharp-main/Starter/** linguist-vendored=false
 Guided-project-Work-with-variable-data-CSharp-main/Starter/** linguist-detectable=true
+
+# Force GitHub to scan the Final folder
+Guided-project-Work-with-variable-data-CSharp-main/Final/** linguist-vendored=false
+Guided-project-Work-with-variable-data-CSharp-main/Final/** linguist-detectable=true
+
+
