@@ -1,3 +1,8 @@
 # Replace 'app' with your folder name if it is different
 app/** linguist-documentation=false
 app/** linguist-vendored=false
+
+# Ignore web assets or dependency folders from language statistics
+wwwroot/** linguist-detectable=false
+bin/** linguist-detectable=false
+obj/** linguist-detectable=false
